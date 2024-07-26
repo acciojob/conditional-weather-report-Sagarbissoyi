@@ -1,6 +1,6 @@
 // src/App.js
 import React, { useState } from 'react';
-import UseMemoComponent from './components/UseMemo';
+import UseMemoComponent from './UseMemo';
 import ReactMemoComponent from './components/ReactMemo';
 
 function App() {
