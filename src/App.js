@@ -1,7 +1,7 @@
 // src/App.js
 import React, { useState } from 'react';
-import UseMemoComponent from './UseMemo';
-import ReactMemoComponent from './ReactMemo';
+import UseMemoComponent from './components/UseMemo';
+import ReactMemoComponent from './components/ReactMemo';
 
 function App() {
   const [todos, setTodos] = useState(['New todo']);
